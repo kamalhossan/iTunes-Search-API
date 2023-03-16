@@ -82,8 +82,8 @@ const App = () => {
                     <TableCell>{artistName}</TableCell>
                     <TableCell>{collectionName}</TableCell>
                     <TableCell>{primaryGenreName}</TableCell>
-                    <TableCell>{formatDate}</TableCell>
-                    <TableCell>
+                    <TableCell sx={{ minWidth: 120 }}>{formatDate}</TableCell>
+                    <TableCell sx={{ minWidth: 180 }}>
                       <Button
                         href={result.collectionViewUrl}
                         target="_blank"
