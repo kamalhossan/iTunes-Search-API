@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/kamalhossan/iTunes-Search-API/blob/main/src/image/Screenshot.jpg.png?raw=true)
+![alt text](https://github.com/kamalhossan/iTunes-Search-API/blob/main/src/image/Screenshot.jpg?raw=true)
 
 # Getting Started with Create React App
 
