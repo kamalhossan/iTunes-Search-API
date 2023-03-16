@@ -83,7 +83,7 @@ const App = () => {
                     <TableCell>{collectionName}</TableCell>
                     <TableCell>{primaryGenreName}</TableCell>
                     <TableCell sx={{ minWidth: 120 }}>{formatDate}</TableCell>
-                    <TableCell sx={{ minWidth: 180 }}>
+                    <TableCell sx={{ minWidth: 185 }}>
                       <Button
                         href={result.collectionViewUrl}
                         target="_blank"
